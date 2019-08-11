@@ -22,4 +22,5 @@ Build software to play “tunnel checkers” against an opponent:
 American checkers is played on a flat 8x8 board of alternating colored squares.  The players are at opposite ends of the board and follow a set of game rules.
 Tunnel checkers follows the same game rules with the two players at opposite ends.  However, the sides of the board are rolled up (or down) to create a tunnel.  E.g. a player’s piece could keep moving to forward right without bumping into a side as it moves around the tunnel board.
 
-![alt text](img/1565487233835.jpg|width=100)
+
+<img data-canonical-src="img/1565487233835.jpg" width="200" height="400" />
