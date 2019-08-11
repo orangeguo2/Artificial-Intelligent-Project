@@ -24,5 +24,6 @@ Tunnel checkers follows the same game rules with the two players at opposite end
 
 ## 3. Visible game board & Algorithm choose
 <img src="img/1565487233835.jpg" width="400" height="400" />
-<img src="img/1565487249198.jpg" width="800" height="400" />
+<img src="img/1565487249198.jpg" width="800" height="300" />
 
+![](img/1565487233835.jpg =250x250)
